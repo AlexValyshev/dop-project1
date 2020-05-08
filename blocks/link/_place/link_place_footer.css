@@ -1,0 +1,7 @@
+.link_place_footer:hover {
+    background: #2f80ed;
+    border-radius: 50%;
+    display: flex;
+
+   /* box-shadow: 0 5px 10px #2f80ed;*/
+    }

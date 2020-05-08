@@ -1,0 +1,12 @@
+@import url(./_place/link_place_footer.css);
+@import url(./_place/link_color_black.css);
+
+.link {
+  text-decoration: none;
+  /*display: flex;*/
+  vertical-align: super;  
+}
+
+.link:hover {
+  color: #2f80ed;
+}

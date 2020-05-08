@@ -1,0 +1,13 @@
+@import url(./_place/subtitle_place_posts-tall.css);
+@import url(./_place/subtitle_place_posts-blog.css);
+
+.subtitle {
+  height: 25px;
+  margin: 23px auto 0;
+  font-family: Gilroy;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+  border: 1px solid blue;
+}

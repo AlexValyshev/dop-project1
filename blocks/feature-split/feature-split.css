@@ -1,0 +1,19 @@
+@import url(./__text/feature-split__text.css);
+@import url(./__title/feature-split__title.css);
+
+.feature-split {
+  height: 600px;
+  width: inherit;
+  position: absolute;
+  left: 0px;
+  top: 817px;
+  background: #f1f1f2;
+  background-image: url(../../images/Media.png);
+  background-size: 721px 600px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  border: 1px solid blue;
+}

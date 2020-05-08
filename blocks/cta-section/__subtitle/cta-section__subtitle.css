@@ -1,0 +1,11 @@
+.cta-section__subtitle {
+    width: 312px;
+    height: 45px;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: justify;
+    vertical-align: text-top;
+    color: #000000;  
+    display: inline-block;
+    margin: 0 0 0 235px; 
+}

@@ -1,0 +1,9 @@
+.posts-blog__cards {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid blue;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;  
+}

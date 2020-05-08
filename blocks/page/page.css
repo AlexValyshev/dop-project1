@@ -1,0 +1,10 @@
+.page {
+position: relative;
+width: 1440px;
+height: 3913px;
+background: #FFFFFF;
+margin: 0 auto;
+padding: 0;
+border: 2px solid red;
+font-family: 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+}

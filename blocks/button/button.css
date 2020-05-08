@@ -1,0 +1,19 @@
+@import url(./_place/button_place_navigation-bar.css);
+@import url(./_place/button_place_hero-side.css);
+@import url(./_place/button_place_feature-split.css);
+@import url(./_place/button_place_cta-section-left.css);
+@import url(./_place/button_place_cta-section-richt.css);
+@import url(./__text/button__text.css);
+@import url(./__text/_place/button__text_place_navigation-bar.css);
+@import url(./__text/_place/button__text_place_hero-side.css);
+@import url(./__text/_place/button__text_place_feature-split.css);
+@import url(./__text/_place/button__text_place_cta-section-left.css);
+@import url(./__text/_place/button__text_place_cta-section-richt.css);
+
+
+.button {
+  border-radius: 5px;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

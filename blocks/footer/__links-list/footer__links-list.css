@@ -1,0 +1,12 @@
+.footer__links-list {
+  height: 20px;
+  width: inherit;
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid blue;
+}

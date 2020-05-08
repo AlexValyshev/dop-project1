@@ -1,0 +1,11 @@
+@import url(./__title/cta-section__title.css);
+@import url(./__subtitle/cta-section__subtitle.css);
+
+.cta-section {
+  height: 240px;
+  width: inherit;  
+  position: absolute;
+  top: 2237px;
+  border: 1px solid blue;
+  background: #F7941E;
+}

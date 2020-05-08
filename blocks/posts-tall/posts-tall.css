@@ -1,0 +1,20 @@
+@import url(./__cards/posts-tall__cards.css);
+@import url(./__card/posts-tall__card.css);
+@import url(./__heading/posts-tall__heading.css);
+@import url(./__image/posts-tall__image.css);
+@import url(./__link/posts-tall__link.css);
+
+.posts-tall {
+  height: 820px;
+  width: inherit;
+  position: absolute;
+  left: 0px;
+  top: 1417px;
+  box-sizing: border-box;
+  padding-top: 96px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid blue;
+}

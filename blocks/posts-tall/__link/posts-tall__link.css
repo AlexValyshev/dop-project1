@@ -1,0 +1,17 @@
+.posts-tall__link {
+  width: 67px;
+  height: 20px; 
+  display: inline-block; 
+  margin: 74px 0 0 24px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
+  border: 1px solid blue;
+}
+
+.posts-tall__link::after {
+  content: "\203A";
+}

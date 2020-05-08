@@ -1,0 +1,9 @@
+.button__text {
+  /*width: 101px;*/
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 18px;
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+}

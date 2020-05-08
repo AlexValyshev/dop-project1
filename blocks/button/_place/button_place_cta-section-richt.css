@@ -1,0 +1,10 @@
+.button_place_cta-section-richt {
+    width: 200px;
+    height: 50px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    position: absolute;
+    top: 96px;    
+    right: 235px; 
+      
+}

@@ -1,0 +1,14 @@
+.posts-tall__card {
+  width: 270px;  
+  height: 436px;
+  margin-right: 30px;
+  border: 1px solid blue;
+}
+
+.posts-tall__card:last-child {
+  margin-right: 0;
+}
+
+.posts-tall__card:hover {
+box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+}
