@@ -1,7 +1,8 @@
 .footer__copyright {
-    width: 94px;
+    width: 104px;
     height: 20px;
     font-family: 'Roboto';
+    font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     text-align: center;
@@ -10,5 +11,5 @@
     margin: 0;
     position: absolute;
     bottom: 35px;
-    left: 618px;
+    left: 608px;
 }

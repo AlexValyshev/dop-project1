@@ -1,7 +1,8 @@
 .footer__link-down {
-    width: 101px;
+    width: 111px;
     height: 20px;
     font-family: 'Roboto';
+    font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     text-align: center;
