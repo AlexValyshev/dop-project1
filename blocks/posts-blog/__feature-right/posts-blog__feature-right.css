@@ -1,0 +1,9 @@
+.posts-blog__feature-right {
+  width: 770px;
+  box-sizing: border-box;
+  padding-top: 63px;
+  padding-left: 78px;
+  display: flex;
+  flex-direction: column;
+  background: #231F20;
+}

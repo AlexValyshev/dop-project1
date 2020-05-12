@@ -8,13 +8,16 @@
 @import url(./__image/footer__image.css);
 @import url(./__copyright/footer__copyright.css);
 @import url(./__link-down/footer__link-down.css);
+@import url(./__down/footer__down.css);
 
 .footer {
-  width: inherit;
   height: 410px;
-  position: absolute; 
-  top: 3503px; 
   background: #fafafa;
-  display: flex;  
+  display: flex;
   flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding-top: 115px;
+  padding-bottom: 35px;
+  position: relative;
 }

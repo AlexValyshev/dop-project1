@@ -1,7 +1,11 @@
 .posts-blog__card {
-  width: 570px;  
+  width: 570px;
   height: 290px;
+  box-sizing: border-box;
+  padding-top: 48px;
+  padding-left: 48px;
   margin-right: 30px;
+  position: relative;
 }
 
 .posts-blog__card:last-child {

@@ -1,0 +1,5 @@
+.hero-side__right {
+  width: 50%;
+  background-image: url(../../../images/girlfriend.png);
+  background-size: cover;
+}

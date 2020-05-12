@@ -1,10 +1,9 @@
 .posts-blog__author {
-    width: 84px;
-    height: 20px;
-    margin: 63px 608px 0 0;
+    margin: 0;
+    margin-bottom: 27px;
     font-size: 14px;
-    line-height: 25px;
+    line-height: 20px;
     font-family: 'Roboto';
     font-weight: normal;
-    color: #FFFFFF;   
+    color: #FFFFFF;
 }

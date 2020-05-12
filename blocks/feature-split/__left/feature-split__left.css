@@ -1,0 +1,5 @@
+.feature-split__left {
+  width: 50%;
+  background-image: url(../../../images/Media.png);
+  background-size: cover;
+}

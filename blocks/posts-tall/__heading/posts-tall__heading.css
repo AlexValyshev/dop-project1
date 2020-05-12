@@ -1,7 +1,6 @@
 .posts-tall__heading {
-  width: 222px;
-  height: 24px; 
-  margin: 24px 0 0 24px; 
+  margin: 0;
+  padding-left: 24px;
   font-family: 'Roboto';
   font-weight: normal;
   font-size: 20px;

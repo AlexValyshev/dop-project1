@@ -1,4 +1,6 @@
 @import url(./__feature/posts-blog__feature.css);
+@import url(./__feature-left/posts-blog__feature-left.css);
+@import url(./__feature-right/posts-blog__feature-right.css);
 @import url(./__author/posts-blog__author.css);
 @import url(./__title/posts-blog__title.css);
 @import url(./__link/posts-blog__link.css);
@@ -9,13 +11,9 @@
 @import url(./__link-card/posts-blog__link-card.css);
 
 .posts-blog {
-    height: 1026px;
-    width: inherit;
-    position: absolute;
-    left: 0px;
-    top: 2477px;
     box-sizing: border-box;
     padding-top: 88px;
+    padding-bottom: 80px;
     background: #ffffff;
     display: flex;
     flex-direction: column;

@@ -1,10 +1,11 @@
 .hero-side__title {
   width: 433px;
   height: 206px;
-  margin: 154px 0 0 162px;
-  font-family: 'Roboto';  
+  margin: 0;
+  margin-bottom: 36px;
+  font-family: 'Roboto';
   font-weight: bold;
   font-size: 56px;
-  line-height: 69px;    
+  line-height: 69px;
   color: #000000;
 }

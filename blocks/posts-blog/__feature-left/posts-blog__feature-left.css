@@ -1,0 +1,5 @@
+.posts-blog__feature-left {
+  width: 400px;
+  background-image: url(../../../images/Feature.png);
+  background-size: cover;
+}

@@ -1,0 +1,8 @@
+.feature-split__right {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding-top: 164px;
+  padding-left: 112px;
+}

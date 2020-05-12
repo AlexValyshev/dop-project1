@@ -1,8 +1,8 @@
 .posts-tall__link {
-  width: 67px;
-  height: 20px; 
-  display: inline-block; 
-  margin: 74px 0 0 24px;
+  height: 20px;
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
   font-family: 'Roboto';
   font-weight: normal;
   font-style: normal;

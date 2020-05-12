@@ -1,10 +1,11 @@
 .feature-split__text {
     width: 441px;
     height: 169px;
-    margin: 23px 166px 0 0;
+    margin: 0;
+    margin-bottom: 35px;
     font-size: 20px;
     line-height: 28px;
     font-family: 'Roboto';
     font-weight: normal;
-    color: #000000;  
+    color: #000000;
 }

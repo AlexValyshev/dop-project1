@@ -1,10 +1,10 @@
+@import url(./__left/cta-section__left.css);
 @import url(./__title/cta-section__title.css);
 @import url(./__subtitle/cta-section__subtitle.css);
+@import url(./__right/cta-section__right.css);
 
 .cta-section {
   height: 240px;
-  width: inherit;  
-  position: absolute;
-  top: 2237px;
   background: #F7941E;
+  display: flex;
 }

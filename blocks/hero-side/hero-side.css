@@ -1,17 +1,10 @@
+@import url(./__left/hero-side__left.css);
+@import url(./__right/hero-side__right.css);
 @import url(./__title/hero-side__title.css);
 @import url(./__question/hero-side__question.css);
 
 .hero-side {
   height: 700px;
-  width: inherit;
-  position: absolute;
-  left: 0px;
-  top: 117px;
   background: #f1f1f2;
-  background-image: url(../../images/girlfriend.png);
-  background-size: 719px 700px;
-  background-position: right top;
-  background-repeat: no-repeat;
   display: flex;
-  flex-direction: column;
 }

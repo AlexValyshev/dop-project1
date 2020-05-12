@@ -1,12 +1,10 @@
 .cta-section__title {
-    width: 335px;
-    height: 45px;
     font-family: 'Roboto Bd';
     font-weight: bold;
     font-size: 32px;
     line-height: 45px;
     text-align: left;
     vertical-align: text-top;
-    color: #000000;  
-    margin: 81px 0 0 235px;
+    color: #000000;
+    margin: 0;
 }

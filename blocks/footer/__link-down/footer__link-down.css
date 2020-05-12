@@ -1,13 +1,11 @@
 .footer__link-down {
-    width: 111px;
+    width: 103px;
     height: 20px;
+    margin: 0;
     font-family: 'Roboto';
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
     text-align: center;
-    color: #000000; 
-    position: absolute;
-    bottom: 35px;
-    right: 613px;
+    color: #000000;
 }

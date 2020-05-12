@@ -1,8 +1,7 @@
 .posts-blog__text {
   width: 474px;
   height: 72px;
-  display: inline-block; 
-  margin: 16px 0 0 48px;
+  margin: 0;
   font-size: 18px;
   line-height: 25px;
   font-family: 'Roboto';

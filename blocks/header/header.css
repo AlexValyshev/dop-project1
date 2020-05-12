@@ -5,11 +5,8 @@
 
 .header {
   background: #fafafa;
-  position: absolute;
-  width: 1440px;
   height: 116px;
-  left: 0px;
-  top: 1px;
   display: flex;
   align-items: center;
+  justify-content: center;
 }

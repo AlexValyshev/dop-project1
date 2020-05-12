@@ -5,13 +5,9 @@
 @import url(./__link/posts-tall__link.css);
 
 .posts-tall {
-  height: 820px;
-  width: inherit;
-  position: absolute;
-  left: 0px;
-  top: 1417px;
   box-sizing: border-box;
   padding-top: 96px;
+  padding-bottom: 137px;
   background: #ffffff;
   display: flex;
   flex-direction: column;
